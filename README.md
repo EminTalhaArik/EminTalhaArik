@@ -1,7 +1,7 @@
 ## **About Me** 👨
 
 <br>
-<h3 align="center", border="2px solid white"> Hi :wave:, I am <a href="https://linkedin.com/in/emin-talha-arik">Emin Arik</a>, a 19 y/o Full Time Learner </h3>
+<h3 align="center", border="2px solid white"> Hi :wave:, I am <a href="https://linkedin.com/in/emin-talha-arik">Emin Arik</a>, a NaN y/o Full Time Learner </h3>
 <br><br>
 
 ### **I am currently exploring :**
